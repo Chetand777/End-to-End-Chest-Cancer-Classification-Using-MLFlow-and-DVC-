@@ -22,9 +22,11 @@
 #### dagshub
 [dagshub](https://dagshub.com/)
 
-MLFLOW_TRACKING_URI=https://dagshub.com/Chetand777/End-to-End-Chest-Cancer-Classification-Using-MLFlow-and-DVC-.mlflow
-MLFLOW_TRACKING_USERNAME=Chetand777 \
-MFLOW_TRACKING_PASSWORD='PASSWORD' \
+- MLFLOW_TRACKING_URI=https://dagshub.com/Chetand777/End-to-End-Chest-Cancer-Classification-Using-MLFlow-and-DVC-.mlflow
+
+- MLFLOW_TRACKING_USERNAME=Chetand777 \
+
+- MFLOW_TRACKING_PASSWORD='PASSWORD' \
 python script.py
 
 Run this to export new env variables:
