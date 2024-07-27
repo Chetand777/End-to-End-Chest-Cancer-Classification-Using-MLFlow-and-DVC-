@@ -24,7 +24,7 @@
 
 MLFLOW_TRACKING_URI=https://dagshub.com/Chetand777/End-to-End-Chest-Cancer-Classification-Using-MLFlow-and-DVC-.mlflow
 MLFLOW_TRACKING_USERNAME=Chetand777 \
-MFLOW_TRACKING_PASSWORD=e1afbba45719bba39c443ab80bab12cfbb386212 \
+MFLOW_TRACKING_PASSWORD='PASSWORD' \
 python script.py
 
 Run this to export new env variables:
