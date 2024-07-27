@@ -161,3 +161,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 artifacts/*
+dagshub_token = 'e1afbba45719bba39c443ab80bab12cfbb386212'
